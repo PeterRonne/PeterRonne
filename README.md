@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterRonne
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on making a game, or any other fun projects your might have.
+- 👀 I’m interested in game development 
+- 🌱 I’m currently studying computer science
+- 💞️ I’m looking to collaborate on making a game, or any other fun projects you might have.
 - 📫 How to reach me (This is gonna be blank for now)
 
 <!---
